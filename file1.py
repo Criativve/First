@@ -4,7 +4,7 @@ file2.func()
 import mydir
 
 mydir.listing(file2)
-
+// Добавил коммент
 """
 class C1():
     def setname(self, who):
